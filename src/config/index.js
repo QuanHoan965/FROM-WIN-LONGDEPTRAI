@@ -11,7 +11,7 @@ export const config = {
 
     LOAD_TIMEOUT_MS: 2000,
 
-    ERROR_COUNTDOWN_MS: 8000,
+    ERROR_COUNTDOWN_MS: 5000,
 
     MAX_CODE_ATTEMPTS: 5
 };
