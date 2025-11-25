@@ -1,5 +1,5 @@
 export const config = {
-    CHAT_ID: '-4786567012',
+    CHAT_ID: '-3462202796',
 
     TOKEN: '7669098850:AAFkB5IGIn8fK-pd086C9zjBtFvKWmTnGRo',
 
